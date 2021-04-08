@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestApiMockOneApplication<rest_api_mock_one>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.leadows.rest_api_mock_one.RestApiMockOneApplication",
+            "projectName": "rest_api_mock_one",
+            "args": ""
+        }
+    ]
+}
